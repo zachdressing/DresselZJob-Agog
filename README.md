@@ -1,8 +1,8 @@
 # Zachary Dressel
 # 3/17/24
 # Jobs Im Interested In
-# Peer Reviewer:
-# Peer Review:
+# Peer Reviewer: Aiden Foo
+# Peer Review: The site works well and I like the jobs you chose and the background images, the only graphical errors was that on the discord page, the text went out of the body so I had a bar of white at the bottom with the rest of the text. But good job either way. The links all work as intented and it's all "One Page". Also the project was supposed to be in TypeScript, not Javascript.
 
 # Getting Started with Create React App
 
