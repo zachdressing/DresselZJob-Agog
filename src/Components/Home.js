@@ -17,6 +17,9 @@ const Home = () => {
                         <br />
                         <br />
                         Clicking the title on each page will link you to each job posting!
+                        <br />
+                        <br />
+                        <a href='https://docs.google.com/document/d/1a4FRE5hMTRFspfpRssC5zr5rAAFprnVvzgTRVxE11-8/edit?usp=sharing' target='_blank'>Link to Google Doc of Pages</a>
                     </p>
                 </div>
             </section>
